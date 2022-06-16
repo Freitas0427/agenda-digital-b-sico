@@ -1,0 +1,10 @@
+.caixa-msg {
+    height: 100px;
+    width: 450px;
+    padding: 20px;
+    margin-left: 40px;
+}
+.div {
+    background-image:linear-gradient(45deg, bisque, rgb(56, 88, 192));
+    text-align: center;
+}
